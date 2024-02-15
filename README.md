@@ -1,2 +1,2 @@
-# orbis-pictus
-Repozitář pro projekt Orbis-Pictus
+# Orbis-pictus
+Repozitář pro projekt Orbis-pictus
